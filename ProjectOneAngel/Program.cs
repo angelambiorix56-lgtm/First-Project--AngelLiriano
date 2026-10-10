@@ -1,4 +1,5 @@
-﻿try
+﻿//Angel ambiorix liriano soto 2026-0976
+try
 {
     List<decimal> typedNumbers = new List<decimal>();
     bool running = true;
